@@ -88,19 +88,6 @@ Model explainability with SHAP/LIME
 Deploy the trained model via REST API or Streamlit dashboard
 
 
-Repository Structure:
-
-. Predict-Term-Deposit-ML/
-├── dataset/
-│ └── bank-full.csv
-├── plots/
-│ ├── eda/
-│ ├── evaluation/
-│ └── final_evaluation/
-├── Predicting Term Deposit Subscriptions Using Machine Learning.ipynb
-├── Predicting Term Deposit Subscriptions Using Machine Learning.pdf
-├── Predicting Term Deposit Subscriptions Using Machine Learning.html
-└── README.md
 
 
 By
